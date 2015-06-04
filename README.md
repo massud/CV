@@ -1,10 +1,20 @@
-## Your Name
+## Massud Gnan
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Attended a 12 week web development course at Makers Academy graduating to a junior developer level. Prior to this i had several successful years working in the pharmaceutical and medical tourism industry. I now have aspirations in joining this fast moving tech industry. I would love to be part of a creative and ambitious company that will allow me to not only enhance my current skills but also to futher develop new ones.
+
+## Project Portfolio
+
+Project | Link | Description | Technologies Used
+--------|----|-------------|-------------------
+Makerbase |https://github.com/Makerbase/makerbase | A platform for Makers Students to share tutorials, resources and general programming knowledge  | Rails 4, HTML5, CSS3, Bootstrap, Heroku, RSpec, Capybara | 
+To Do App |https://github.com/massud/todo_challenge|A mini front-end Todo list application|  JavaScript, jQuery, Angular, Protractor, Karma, Grunt
+Instagram clone (incomplete) |https://github.com/massud/instagram-challenge | Instagram clone built on Rails | Rails 4, RSpec, HTML5, CSS3, Bootstrap, Heroku
+Chitter(incomplete) | https://github.com/massud/chitter-challenge | Twitter clone built on Sinatra | Sinatra, Rspec, Capybara, HTML5, CSS3, Bootstrap, Heroku
+
 
 ## Skills
 
-#### This Skill
+#### Web Development
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,7 +22,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Pharmacy
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -23,16 +33,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2015 to June 2015)
 
-- Curiosity and hungry passion for code
+- A keen interest and genuine enthusiasm for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, BDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, jQuery, Node.js, Angular.js
+- Rspec, Jasmine, Capybara, Cucumber, Karma, Protractor, Grunt
 
-#### Your University / College (start_date to end_date)
+#### Kings College London (start_date to end_date)
 
 - Subject, any specialisms
 - Grade
